@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+
+/* syntax reference
+regular styles: tag { }	| 		example: h1 {...}
+compound style: tag tag { }	| 	example: header h1 {...}
+class: .className { }	|		example: .myClass {...}
+id: #idName { } | 				example: #myIDstyle {...}
+special selectors: tag:selector | example: a:hover {...}
+
+more info: https://www.w3schools.com/cssref/css_selectors.asp
+*/
